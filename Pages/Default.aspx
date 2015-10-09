@@ -24,7 +24,15 @@
             <select id="views"></select>
         </div>
         <div class="UserControlGroup">
-            <input type="button" value="Get" />
+            <span>Row Limit</span>
+            <input type="text" id="row-limit" value="2" />
+            <input type="button" value="Get" id="get" />
+        </div>
+        <hr />
+        <div id="result">
+        </div>
+        <div id="page">
+            <input type="button" value="Next" id="next" />
         </div>
     </div>
     <script type="text/javascript" src="/_layouts/15/sp.runtime.js"></script>
