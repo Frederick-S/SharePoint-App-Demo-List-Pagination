@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/Frederick-S/SharePoint-App-Demo-List-Pagination#readme",
   "dependencies": {
-    "query-string": "^2.4.2",
-    "sp-context-helper": "0.0.4",
-    "sp-each": "0.0.5"
+    "query-string": "^4.3.4",
+    "sp-context-helper": "1.0.3",
+    "sp-each": "1.0.2"
   }
 }
